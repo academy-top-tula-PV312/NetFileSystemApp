@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFileSystemApp", "NetFileSystemApp\NetFileSystemApp.csproj", "{90AC4437-1802-48D7-BF85-7B3D6A9088DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90AC4437-1802-48D7-BF85-7B3D6A9088DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AC4437-1802-48D7-BF85-7B3D6A9088DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AC4437-1802-48D7-BF85-7B3D6A9088DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AC4437-1802-48D7-BF85-7B3D6A9088DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0494A1-1783-4F3F-8D97-FF21F52E7ADC}
+	EndGlobalSection
+EndGlobal
